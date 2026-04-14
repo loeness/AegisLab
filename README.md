@@ -3,6 +3,7 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Go Version](https://img.shields.io/badge/Go-1.23+-blue.svg)](https://golang.org/)
 [![Python Version](https://img.shields.io/badge/Python-3.10+-green.svg)](https://python.org/)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/OperationsPAI/AegisLab)
 
 RCABench is a comprehensive benchmarking platform designed for evaluating root cause analysis (RCA) algorithms in microservices environments. It provides automated fault injection, algorithm execution, and evaluation capabilities for distributed systems research.
 
